@@ -25,10 +25,17 @@ class MainTest {
     @Test
     void calculateDistance() {
         assertEquals(0, Math.round(Main.calculateDistance(0, 0, 0, 0)));
+
+        assertEquals(111, Math.round(Main.calculateDistance(-1, 0, 0, 0)));
+        assertEquals(111, Math.round(Main.calculateDistance(0, -1, 0, 0)));
+        assertEquals(111, Math.round(Main.calculateDistance(0, 0, -1, 0)));
+        assertEquals(111, Math.round(Main.calculateDistance(0, 0, 0, -1)));
+
         assertEquals(111, Math.round(Main.calculateDistance(1, 0, 0, 0)));
         assertEquals(111, Math.round(Main.calculateDistance(0, 1, 0, 0)));
         assertEquals(111, Math.round(Main.calculateDistance(0, 0, 1, 0)));
         assertEquals(111, Math.round(Main.calculateDistance(0, 0, 0, 1)));
+
         assertEquals(4605, Math.round(Main.calculateDistance(30, 0, 30, 0)));
         assertEquals(8398, Math.round(Main.calculateDistance(0, 60, 0, 60)));
     }

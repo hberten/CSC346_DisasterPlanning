@@ -1,0 +1,451 @@
+Enter a zip code:
+64505
+Enter a distance in miles:
+100
+
+Zip     City, State          Population   Households
+51631   BRADDYVILLE, IA      0            0         
+64427   BOLCKOW, MO          496          269       
+68382   LORTON, NE           0            0         
+68320   BROCK, NE            0            0         
+64632   CAINSVILLE, MO       554          312       
+64481   RIDGEWAY, MO         888          510       
+50052   CLIO, IA             0            0         
+64743   EAST LYNNE, MO       0            0         
+64076   ODESSA, MO           7765         4237      
+51645   IMOGENE, IA          0            0         
+64734   CLEVELAND, MO        1781         966       
+64486   SHERIDAN, MO         0            0         
+68344   DOUGLAS, NE          0            0         
+68355   FALLS CITY, NE       4164         2419      
+50840   CLEARFIELD, IA       0            0         
+68421   PERU, NE             503          300       
+64660   MENDON, MO           0            0         
+64681   SUMNER, MO           0            0         
+64459   HELENA, MO           0            0         
+64428   BURLINGTON JUNCTION, MO 747          422       
+64062   LAWSON, MO           5249         2726      
+64647   JAMESON, MO          0            0         
+50108   GRAND RIVER, IA      0            0         
+51630   BLANCHARD, IA        0            0         
+51632   CLARINDA, IA         5062         2902      
+64458   HATFIELD, MO         0            0         
+64489   STANBERRY, MO        1533         852       
+51601   SHENANDOAH, IA       4712         2697      
+66072   PARKER, KS           886          468       
+64471   NEW HAMPTON, MO      0            0         
+66425   FAIRVIEW, KS         0            0         
+64654   LOCK SPRINGS, MO     0            0         
+66092   WELLSVILLE, KS       3465         1851      
+65340   MARSHALL, MO         11859        6784      
+66515   MORRILL, KS          0            0         
+66073   PERRY, KS            2044         1104      
+66097   WINCHESTER, KS       851          473       
+64451   FOREST CITY, MO      0            0         
+64040   HOLDEN, MO           5296         2865      
+64636   COFFEY, MO           0            0         
+68446   SYRACUSE, NE         2330         1311      
+68420   PAWNEE CITY, NE      1044         624       
+66428   GOFF, KS             0            0         
+64644   HAMILTON, MO         2331         1276      
+64150   RIVERSIDE, MO        2249         1379      
+64676   ROTHVILLE, MO        0            0         
+50859   PRESCOTT, IA         532          279       
+50147   LINEVILLE, IA        0            0         
+51636   COIN, IA             0            0         
+64649   KIDDER, MO           736          399       
+51647   NORTHBORO, IA        0            0         
+66414   CARBONDALE, KS       2441         1377      
+50140   LAMONI, IA           1729         993       
+64646   HUMPHREYS, MO        0            0         
+64085   RICHMOND, MO         7051         3895      
+64642   GILMAN CITY, MO      700          383       
+66521   ONAGA, KS            1344         752       
+66533   ROSSVILLE, KS        1455         765       
+68329   COOK, NE             507          281       
+68447   TABLE ROCK, NE       0            0         
+64021   CORDER, MO           567          316       
+51566   RED OAK, IA          5664         3242      
+50133   KELLERTON, IA        0            0         
+64034   GREENWOOD, MO        6619         3399      
+64480   REA, MO              0            0         
+66601   TOPEKA, KS           132571       78105     
+65286   TRIPLETT, MO         0            0         
+64469   MAYSVILLE, MO        1784         972       
+66067   OTTAWA, KS           12924        7273      
+66420   DOVER, KS            0            0         
+66544   VERMILLION, KS       0            0         
+64682   TINA, MO             0            0         
+64641   GALT, MO             483          269       
+64019   CENTERVIEW, MO       1891         980       
+64078   PECULIAR, MO         7608         4088      
+64725   ARCHIE, MO           1894         987       
+64688   WHEELING, MO         465          251       
+64426   BLYTHEDALE, MO       0            0         
+64077   ORRICK, MO           1617         878       
+66542   TECUMSEH, KS         3223         1704      
+50835   BENTON, IA           0            0         
+51653   TABOR, IA            1082         586       
+50851   LENOX, IA            1574         880       
+66083   SPRING HILL, KS      7626         4001      
+66416   CIRCLEVILLE, KS      0            0         
+66522   ONEIDA, KS           0            0         
+68433   SALEM, NE            0            0         
+66080   RICHMOND, KS         906          490       
+64453   GENTRY, MO           0            0         
+66024   ELWOOD, KS           723          417       
+68410   NEBRASKA CITY, NE    7021         3963      
+66538   SENECA, KS           2930         1675      
+66418   DELIA, KS            493          260       
+66035   HIGHLAND, KS         802          454       
+66060   NORTONVILLE, KS      936          505       
+66413   BURLINGAME, KS       1548         861       
+64431   CLEARMONT, MO        0            0         
+66016   CUMMINGS, KS         472          253       
+64442   EAGLEVILLE, MO       620          330       
+66546   WAKARUSA, KS         952          535       
+66008   BENDENA, KS          0            0         
+64016   BUCKNER, MO          3796         2047      
+64079   PLATTE CITY, MO      10383        5559      
+68376   HUMBOLDT, NE         1199         681       
+66018   DE SOTO, KS          4627         2442      
+68454   UNADILLA, NE         603          325       
+64424   BETHANY, MO          3474         1947      
+64013   BLUE SPRINGS, MO     47708        26385     
+66113   EDWARDSVILLE, KS     884          506       
+64475   PARNELL, MO          0            0         
+68321   BROWNVILLE, NE       0            0         
+66064   OSAWATOMIE, KS       4626         2589      
+64491   TARKIO, MO           1518         880       
+64473   OREGON, MO           1296         719       
+50839   CARBON, IA           0            0         
+66501   MC FARLAND, KS       0            0         
+66524   OVERBROOK, KS        2211         1209      
+66006   BALDWIN CITY, KS     5787         3169      
+66043   LANSING, KS          7563         4152      
+66520   OLSBURG, KS          534          290       
+64733   CHILHOWEE, MO        890          466       
+64686   UTICA, MO            0            0         
+66026   FONTANA, KS          565          298       
+66204   OVERLAND PARK, KS    145592       82979     
+66431   HARVEYVILLE, KS      555          288       
+68332   CRAB ORCHARD, NE     0            0         
+66526   PAXICO, KS           645          335       
+66048   LEAVENWORTH, KS      26489        15065     
+64499   WORTH, MO            0            0         
+64401   AGENCY, MO           1291         695       
+68318   BLUE SPRINGS, NE     0            0         
+64466   MAITLAND, MO         486          274       
+50842   CROMWELL, IA         0            0         
+64672   POWERSVILLE, MO      0            0         
+66434   HIAWATHA, KS         4045         2275      
+50074   ELLSTON, IA          0            0         
+66025   EUDORA, KS           6292         3378      
+64024   EXCELSIOR SPRINGS, MO 12907        7188      
+64490   STEWARTSVILLE, MO    1814         1002      
+66451   LYNDON, KS           1512         826       
+64022   DOVER, MO            0            0         
+50262   VAN WERT, IA         0            0         
+64651   LACLEDE, MO          475          271       
+66050   LECOMPTON, KS        1596         898       
+68301   ADAMS, NE            1242         654       
+68457   VERDON, NE           0            0         
+50254   THAYER, IA           0            0         
+65336   KNOB NOSTER, MO      4822         2629      
+51540   HASTINGS, IA         0            0         
+51654   THURMAN, IA          466          252       
+64070   LONE JACK, MO        2831         1521      
+64655   LUCERNE, MO          0            0         
+68345   DU BOIS, NE          0            0         
+64623   BOSWORTH, MO         506          280       
+64448   FAUCETT, MO          991          544       
+51652   SIDNEY, IA           1496         827       
+66439   HORTON, KS           2124         1200      
+68309   BARNESTON, NE        0            0         
+64723   AMSTERDAM, MO        531          294       
+68357   FILLEY, NE           0            0         
+66422   EMMETT, KS           0            0         
+65344   MIAMI, MO            0            0         
+64096   WAVERLY, MO          894          485       
+66543   VASSAR, KS           610          327       
+66087   TROY, KS             1774         986       
+64484   RUSHVILLE, MO        988          551       
+51551   MALVERN, IA          1493         816       
+64482   ROCK PORT, MO        1756         1006      
+66053   LOUISBURG, KS        6365         3328      
+66070   OZAWKIE, KS          2183         1165      
+64083   RAYMORE, MO          17550        9297      
+66058   MUSCOTAH, KS         0            0         
+64637   COWGILL, MO          507          276       
+68466   WYMORE, NE           1563         867       
+66404   BAILEYVILLE, KS      489          270       
+64477   PLATTSBURG, MO       2846         1582      
+64445   ELMO, MO             0            0         
+50065   DAVIS CITY, IA       0            0         
+50836   BLOCKTON, IA         0            0         
+51650   RIVERTON, IA         0            0         
+66407   BELVUE, KS           0            0         
+66440   HOYT, KS             1819         979       
+50857   NODAWAY, IA          0            0         
+64440   DE KALB, MO          650          343       
+51541   HENDERSON, IA        0            0         
+64420   ALLENDALE, MO        0            0         
+50847   GRANT, IA            0            0         
+64430   CLARKSDALE, MO       694          383       
+66013   BUCYRUS, KS          1734         935       
+64620   ALTAMONT, MO         0            0         
+66532   ROBINSON, KS         585          319       
+50864   VILLISCA, IA         1681         933       
+64461   HOPKINS, MO          740          400       
+68337   DAWSON, NE           0            0         
+64084   RAYVILLE, MO         1333         687       
+66054   MC LOUTH, KS         2471         1299      
+64075   OAK GROVE, MO        9342         5077      
+65321   BLACKBURN, MO        0            0         
+66203   SHAWNEE, KS          59982        32743     
+66031   NEW CENTURY, KS      0            0         
+64433   CONCEPTION, MO       0            0         
+64689   WINSTON, MO          530          283       
+68323   BURCHARD, NE         0            0         
+64624   BRAYMER, MO          1303         695       
+64648   JAMESPORT, MO        1430         726       
+51637   COLLEGE SPRINGS, IA  0            0         
+66507   MAPLE HILL, KS       1000         531       
+64001   ALMA, MO             575          332       
+64060   KEARNEY, MO          11430        5948      
+66432   HAVENSVILLE, KS      0            0         
+66101   KANSAS CITY, KS      107546       61781     
+66250   SHAWNEE MISSION, KS  0            0         
+66509   MAYETTA, KS          2120         1211      
+64625   BRECKENRIDGE, MO     524          292       
+64089   SMITHVILLE, MO       10153        5331      
+64661   MERCER, MO           676          364       
+64643   HALE, MO             839          458       
+64449   FILLMORE, MO         0            0         
+65339   MALTA BEND, MO       549          295       
+64683   TRENTON, MO          6297         3550      
+66549   WESTMORELAND, KS     1425         789       
+64497   WEATHERBY, MO        480          257       
+66424   EVEREST, KS          528          289       
+66411   BLUE RAPIDS, KS      1056         580       
+51532   ELLIOTT, IA          544          296       
+64092   WALDRON, MO          0            0         
+68458   VIRGINIA, NE         0            0         
+68348   ELK CREEK, NE        0            0         
+51649   RANDOLPH, IA         0            0         
+64720   ADRIAN, MO           3076         1659      
+66536   SAINT MARYS, KS      2583         1393      
+51640   HAMBURG, IA          1339         760       
+51646   NEW MARKET, IA       658          359       
+66417   CORNING, KS          0            0         
+64421   AMAZONIA, MO         779          424       
+66539   SILVER LAKE, KS      2598         1380      
+66017   DENTON, KS           0            0         
+64073   MOSBY, MO            0            0         
+68442   STELLA, NE           0            0         
+64068   LIBERTY, MO          30048        16616     
+51639   FARRAGUT, IA         736          410       
+68437   SHUBERT, NE          0            0         
+66403   AXTELL, KS           636          352       
+64493   TURNEY, MO           472          254       
+66051   OLATHE, KS           106607       56396     
+64622   BOGARD, MO           501          277       
+64652   LAREDO, MO           0            0         
+68379   JULIAN, NE           0            0         
+65351   SWEET SPRINGS, MO    1882         1054      
+66426   FOSTORIA, KS         0            0         
+64664   MOORESVILLE, MO      0            0         
+66512   MERIDEN, KS          3007         1653      
+64017   CAMDEN, MO           0            0         
+50841   CORNING, IA          2411         1374      
+68413   NEHAWKA, NE          500          273       
+64496   WATSON, MO           0            0         
+66408   BERN, KS             0            0         
+66402   AUBURN, KS           2643         1392      
+64456   GRANT CITY, MO       1206         675       
+64074   NAPOLEON, MO         638          347       
+66523   OSAGE CITY, KS       3095         1724      
+64742   DREXEL, MO           1824         963       
+66550   WETMORE, KS          497          272       
+66023   EFFINGHAM, KS        957          517       
+66095   WILLIAMSBURG, KS     743          402       
+68431   RULO, NE             0            0         
+66085   STILWELL, KS         6899         3512      
+64474   OSBORN, MO           724          413       
+68305   AUBURN, NE           3453         1897      
+64020   CONCORDIA, MO        2936         1635      
+64438   DARLINGTON, MO       0            0         
+64635   CHULA, MO            0            0         
+66436   HOLTON, KS           4826         2700      
+64066   LEVASY, MO           0            0         
+66033   GREELEY, KS          652          353       
+64485   SAVANNAH, MO         6969         3813      
+50845   DIAGONAL, IA         576          311       
+63556   MILAN, MO            2856         1574      
+66438   HOME, KS             0            0         
+66040   LACYGNE, KS          2753         1482      
+68380   LEWISTON, NE         0            0         
+50264   WELDON, IA           0            0         
+50067   DECATUR, IA          0            0         
+50144   LEON, IA             2214         1217      
+50862   SHARPSBURG, IA       0            0         
+64011   BATES CITY, MO       2729         1469      
+64628   BROOKFIELD, MO       4707         2664      
+64726   BLAIRSTOWN, MO       0            0         
+66419   DENISON, KS          0            0         
+66019   CLEARVIEW CITY, KS   0            0         
+64018   CAMDEN POINT, MO     794          427       
+68381   LIBERTY, NE          0            0         
+64444   EDGERTON, MO         1144         616       
+65236   BRUNSWICK, MO        1106         650       
+64098   WESTON, MO           2484         1363      
+64101   KANSAS CITY, MO      416171       252530    
+66401   ALMA, KS             1563         880       
+68307   AVOCA, NE            0            0         
+66540   SOLDIER, KS          0            0         
+66079   RANTOUL, KS          657          342       
+64492   TRIMBLE, MO          1469         799       
+50830   AFTON, IA            1402         751       
+64746   FREEMAN, MO          1230         666       
+51648   PERCIVAL, IA         0            0         
+66535   SAINT GEORGE, KS     2152         1193      
+64465   LATHROP, MO          3572         1921      
+50103   GARDEN GROVE, IA     0            0         
+68409   MURRAY, NE           773          422       
+66427   FRANKFORT, KS        1182         650       
+66090   WATHENA, KS          2033         1150      
+64030   GRANDVIEW, MO        18797        11205     
+64463   KING CITY, MO        1314         704       
+64501   SAINT JOSEPH, MO     66676        38859     
+64434   CONCEPTION JUNCTION, MO 0            0         
+66429   GRANTVILLE, KS       525          301       
+64037   HIGGINSVILLE, MO     4973         2859      
+66021   EDGERTON, KS         2269         1216      
+64467   MARTINSVILLE, MO     0            0         
+64650   KINGSTON, MO         519          279       
+64036   HENRIETTA, MO        0            0         
+64639   DE WITT, MO          0            0         
+64080   PLEASANT HILL, MO    10810        5781      
+64061   KINGSVILLE, MO       2878         1551      
+66094   WHITE CLOUD, KS      0            0         
+64739   CREIGHTON, MO        863          466       
+64402   ALBANY, MO           1906         1075      
+66527   POWHATTAN, KS        0            0         
+50861   SHANNON CITY, IA     0            0         
+66088   VALLEY FALLS, KS     1978         1070      
+50831   ARISPE, IA           0            0         
+64487   SKIDMORE, MO         655          362       
+65305   WHITEMAN AIR FORCE BASE, MO 2098         1089      
+64659   MEADVILLE, MO        785          404       
+66415   CENTRALIA, KS        740          409       
+64680   STET, MO             0            0         
+66002   ATCHISON, KS         10086        5785      
+68443   STERLING, NE         882          474       
+68450   TECUMSEH, NE         2029         1133      
+68448   TALMAGE, NE          0            0         
+64035   HARDIN, MO           781          422       
+51533   EMERSON, IA          786          434       
+64638   DAWN, MO             0            0         
+66007   BASEHOR, KS          4989         2704      
+50860   REDDING, IA          0            0         
+64457   GUILFORD, MO         0            0         
+66071   PAOLA, KS            10473        5758      
+66528   QUENEMO, KS          724          379       
+66409   BERRYTON, KS         2989         1602      
+66516   NETAWAKA, KS         0            0         
+64747   GARDEN CITY, MO      3189         1729      
+51656   YORKTOWN, IA         0            0         
+68378   JOHNSON, NE          578          299       
+66534   SABETHA, KS          3099         1729      
+50848   GRAVITY, IA          0            0         
+64679   SPICKARD, MO         594          330       
+51651   SHAMBAUGH, IA        0            0         
+64671   POLO, MO             1650         900       
+64630   BROWNING, MO         462          258       
+64656   LUDLOW, MO           0            0         
+64443   EASTON, MO           978          548       
+64667   NEWTOWN, MO          0            0         
+64067   LEXINGTON, MO        4431         2499      
+64050   INDEPENDENCE, MO     97442        58072     
+64097   WELLINGTON, MO       1175         637       
+66208   PRAIRIE VILLAGE, KS  19259        11510     
+50833   BEDFORD, IA          1930         1046      
+64072   MISSOURI CITY, MO    0            0         
+64645   HARRIS, MO           0            0         
+66508   MARYSVILLE, KS       3760         2163      
+64455   GRAHAM, MO           0            0         
+68414   NEMAHA, NE           0            0         
+66041   LANCASTER, KS        648          361       
+64437   CRAIG, MO            645          360       
+50854   MOUNT AYR, IA        1864         1054      
+64494   UNION STAR, MO       871          479       
+64446   FAIRFAX, MO          968          532       
+68455   UNION, NE            634          362       
+66027   FORT LEAVENWORTH, KS 3546         1470      
+68324   BURR, NE             0            0         
+64633   CARROLLTON, MO       4326         2485      
+64454   GOWER, MO            2233         1176      
+66030   GARDNER, KS          16688        8701      
+64093   WARRENSBURG, MO      17943        10241     
+66042   LANE, KS             593          332       
+50863   TINGLEY, IA          0            0         
+66201   MISSION, KS          25112        15970     
+66215   LENEXA, KS           41501        23514     
+66044   LAWRENCE, KS         64247        39852     
+66066   OSKALOOSA, KS        2238         1258      
+64432   CLYDE, MO            0            0         
+68417   OTOE, NE             0            0         
+66086   TONGANOXIE, KS       7970         4238      
+66547   WAMEGO, KS           6632         3608      
+68346   DUNBAR, NE           0            0         
+64640   GALLATIN, MO         2538         1374      
+64028   FARLEY, MO           0            0         
+64653   LINNEUS, MO          584          322       
+64674   PURDIN, MO           0            0         
+64088   SIBLEY, MO           1080         580       
+68441   STEINAUER, NE        0            0         
+64439   DEARBORN, MO         1415         783       
+66052   LINWOOD, KS          1666         917       
+64470   MOUND CITY, MO       1334         750       
+66020   EASTON, KS           1433         782       
+64048   HOLT, MO             3698         1958      
+66541   SUMMERFIELD, KS      0            0         
+64071   MAYVIEW, MO          714          393       
+64673   PRINCETON, MO        1902         1047      
+64090   STRASBURG, MO        0            0         
+64429   CAMERON, MO          7553         4196      
+64468   MARYVILLE, MO        9225         5452      
+51638   ESSEX, IA            1118         607       
+51561   PACIFIC JUNCTION, IA 1152         625       
+66012   BONNER SPRINGS, KS   9439         5190      
+66076   POMONA, KS           1883         1019      
+65327   EMMA, MO             0            0         
+64701   HARRISONVILLE, MO    11809        6529      
+64002   LEES SUMMIT, MO      81295        43996     
+66537   SCRANTON, KS         1237         680       
+64436   COSBY, MO            686          366       
+64441   DENVER, MO           0            0         
+64498   WESTBORO, MO         0            0         
+64012   BELTON, MO           22429        12536     
+64668   NORBORNE, MO         1237         709       
+66206   LEAWOOD, KS          32029        18032     
+64601   CHILLICOTHE, MO      9133         5195      
+64483   ROSENDALE, MO        558          279       
+64029   GRAIN VALLEY, MO     13841        7295      
+64476   PICKERING, MO        0            0         
+51573   STANTON, IA          946          512       
+50801   CRESTON, IA          7533         4327      
+64657   MC FALL, MO          0            0         
+66406   BEATTIE, KS          0            0         
+64670   PATTONSBURG, MO      837          451       
+66510   MELVERN, KS          661          357       
+66078   PRINCETON, KS        811          449       
+66552   WHITING, KS          0            0         
+66518   OKETO, KS            0            0         
+64422   AMITY, MO            0            0         
+64479   RAVENWOOD, MO        724          397       
+64423   BARNARD, MO          639          345       
+66423   ESKRIDGE, KS         817          442       
+66036   HILLSDALE, KS        0            0         
+
+Process finished with exit code 0

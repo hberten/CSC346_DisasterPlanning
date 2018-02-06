@@ -21,6 +21,7 @@ public class Main {
         System.out.println("Enter a distance in miles:");
         int miles = Integer.parseInt(input.next());
 
+        // Database connection host and credentials
         String host = "jdbc:mysql://turing.cs.missouriwestern.edu:3306/misc";
         String user = "csc254";
         String password = "age126";
@@ -38,7 +39,8 @@ public class Main {
             }
 
             // Obtains the place with the inputted zip code, and gets its lat and long
-            String queryString = "SELECT * from zips2 WHERE zipcode = '" + zipCode + "' AND locationtype = 'PRIMARY'";
+            String queryString = "SELECT * from zips2 WHERE zipcode = '" + zipCode + "' AND locationtype = 'PRIMARY' AND" +
+                    " decommissioned = 'false'";
             st = conn.createStatement();
             st.execute(queryString);
             rs = st.executeQuery(queryString);
@@ -47,12 +49,16 @@ public class Main {
             double inputLong = rs.getDouble("long");
 
             // Obtains the rest of the records
-            queryString = "SELECT * from zips2 WHERE locationtype = 'PRIMARY'";
+            queryString = "SELECT * from zips2 WHERE locationtype = 'PRIMARY' AND decommissioned = 'false'";
             st = conn.createStatement();
             st.execute(queryString);
             rs = st.executeQuery(queryString);
 
-            HashMap<String, Place> placeHashMap = new HashMap<>(); // A hash that stores places, with city and state denoting values
+            // A hash that stores places, with city and state denoting values
+            HashMap<String, Place> placeHashMap = new HashMap<>();
+
+            // Navigates through result set, adding them to the map or increasing population if that city-state pair is
+            // already there.
             while (rs.next()) {
                 // If current record's distance is from the inputted zip is greater than inputted distance, continue
                 double currentLat = rs.getDouble("lat");
@@ -99,7 +105,7 @@ public class Main {
 
     // Calculates the distance (in kilometers) between two lat and long coordinates
     static double calculateDistance(double lat1, double lat2, double lon1, double lon2) {
-        int R = 6371;
+        int R = 6371; // The radius of the earth
         double lat1Radians = Math.toRadians(lat1);
         double lat2Radians =  Math.toRadians(lat2);
         double latDiff = Math.toRadians(lat2-lat1);
